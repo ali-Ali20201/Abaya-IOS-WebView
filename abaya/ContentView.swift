@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         NavigationView {
-            SwiftUIWebView(url: URL(string: "https://www.abaya.co.in"))
+            SwiftUIWebView(url: URL(string: "https://reliable-kitten-129242.netlify.app"))
         }
     }
 }
